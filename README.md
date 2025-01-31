@@ -1,3 +1,5 @@
+The main branch contains a single edit to enable the gs ball event after getting the 4th gym badge in Ecruteak. This is mainly because I wanted to use this on my vanilla Crystal save, any other edits ill be commiting to other branches.
+
 # Pokémon Crystal [![Build Status][ci-badge]][ci]
 
 This is a disassembly of Pokémon Crystal.
